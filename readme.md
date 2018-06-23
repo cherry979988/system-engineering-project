@@ -2,7 +2,7 @@
 
 ### Description
 
-In general, different methods learned in class are applied to the prediction or analysis of traffic flow data in Beijing.
+In general, different methods learned in class are applied to predict or analyze traffic flow data in Beijing.
 
 - Task 1: Use multiple linear regression to predict traffic flow; 
 - Task 2: Use principal component analysis (PCA) to describe the key features in traffic flow on a daily basis
