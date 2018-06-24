@@ -1,7 +1,7 @@
 close all; clear all;
 load data_16d.mat
 
-period = 15;
+period = 5;
 % data = flow_50link;
 t = permute(flow_50link,[2,1,3]);
 m = floor(period/5);

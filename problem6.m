@@ -10,7 +10,7 @@ for i=1:50
     flow_morning_daily = [flow_morning_daily; t'];
 end
 
-flag = 1; % 0 for subtask 1, 1 for subtask 2
+flag = 0; % 0 for subtask 1, 1 for subtask 2
 if flag
     data = flow_morning;
     size = 8;

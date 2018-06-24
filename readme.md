@@ -7,10 +7,10 @@ In general, different methods learned in class are applied to predict or analyze
 - Task 1: Use multiple linear regression to predict traffic flow; 
 - Task 2: Use principal component analysis (PCA) to describe the key features in traffic flow on a daily basis
 - Task 3: Use K-means clustering to classify rush hour traffic; 
-- Task 4 (optional) Use neural net fitting and compare the results with 1.
-- Task 6 (optional) Use self-organizing map and compare the results with 3
+- Task 4 (optional) Use neural net fitting and compare the results with Task 1;
+- Task 6 (optional) Use self-organizing map and compare the results with Task 3;
 
-Note that I'm not working on the optional task 5 :)
+Note that I'm not working on the optional task 5.
 
 ### How to Run?
 - Task 1: This task is divided into two subtasks in order to find out the more suitable model setting and data selection;
